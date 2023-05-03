@@ -1,4 +1,4 @@
-import os
+import os, shutil
 import markdown
 
 
@@ -18,7 +18,6 @@ class Convert:
             if not os.path.isdir(subdir):
                 os.mkdir(subdir)
 
-        self.cleanup(subdir)
         file = new_path[-1]
         file = file.replace(file.split('.')[-1], 'html')
         print(os.path.join(subdir, file))
@@ -29,14 +28,14 @@ class Convert:
     def convert(self):
         for subdir, dirs, files in os.walk(self.dir):
             if "." not in subdir[2:]:
+                self.cleanup(subdir)
                 for f in files:
                     if any(ext in f for ext in ["md", "markdown"]):
                        self.md2html(os.path.join(subdir, f)) 
-    """
+
     def cleanup(self, dir):
-        for subdir in list(filter(lambda x: os.path.isdir(x) and '.' not in x, os.scandir(dir))):
-                print(subdir)
-    """         
+        for subdir in list(filter(lambda x: os.path.isdir(x) and '.' not in x, os.listdir(dir))):
+                shutil.rmtree(subdir)
             
 if __name__ == '__main__':
     convert = Convert()
