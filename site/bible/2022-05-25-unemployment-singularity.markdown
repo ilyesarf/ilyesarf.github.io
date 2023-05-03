@@ -1,10 +1,3 @@
----
-layout: blog
-title: "Unemployment's Singularity"
-date: 2022-05-25 23:37:24 +0300
-categories: Random Thoughts
----
-
 When the singularity happens, all of us would be unemployed. And, i literally mean *ALL OF US*. The next 10-15 years are the best years to work in tech and actually contribute something. And, of course that time-span is valid for people who work with AI directly or inderectly (i.e building infrastructure for AI). 
 
 But, for CRUD devs and "software engineers", it's gonna take 5 years (maybe less!) for AI to figure out a way to translate business requirements into code. Once AI is able to do that; most coding channels on Youtube would vanish, it would take few months to a year for small-mid companies to get rid of their developement team. It would take two or three years for big "tech" companies to get rid of most of their developers as well.

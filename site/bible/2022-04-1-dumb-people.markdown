@@ -1,9 +1,3 @@
----
-layout: blog
-title: "Dumb People & The singularity"
-date: 2022-04-01 15:06:06 +0300
-categories: Random Thoughts
----
 
 **WHAT DID WE INVENT IN THE PAST +10 YEARS?**
 

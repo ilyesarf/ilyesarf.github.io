@@ -1,9 +1,3 @@
----
-layout: blog
-title: "The shitty crypto world"
-date: 2022-04-10 01:04:11 +0300
-categories: Random Thoughts
----
 
 I **HATE** the crypto world. I think that Satoshi is going to be named one of the best figures in the 21st century. I think that Vitalik Buterin is also a genius and Ethereum has built a really cool ecosystem (Solidity, PoW, Merges, etc...)
 

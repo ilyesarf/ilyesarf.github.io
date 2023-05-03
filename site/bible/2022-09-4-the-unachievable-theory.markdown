@@ -1,10 +1,3 @@
----
-layout: blog
-title: "The Unachievable Theory"
-date: 2022-09-04 21:40:32 +0300
-categories: Random Thoughts
----
-
 ***DISCLAIMER!!* If you are the type of person who gets offended by ideas, i'd recommend you close this blog now.**
 
 Alright, now that we have that out of the way, let's get started.

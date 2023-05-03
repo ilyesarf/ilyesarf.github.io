@@ -1,9 +1,3 @@
----
-layout: blog
-title: "Let's kill the universe"
-date: 2022-11-16 23:59:59 +0300
-categories: Random Thoughts
----
 
 I spent the past two weeks continuously reading two short stories by Isaac Asimov: The last question and The last answer. Each time the existential dread grows more and i find myself hopelessly trying to figure a way out.
 
