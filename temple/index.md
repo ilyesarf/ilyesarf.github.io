@@ -2,3 +2,5 @@
 
 * [bible](/bible)
 
+
+<style>body {font-family: 'Lucida Console', monospace}</style>
