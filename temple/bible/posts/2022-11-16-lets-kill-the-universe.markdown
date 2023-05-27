@@ -1,7 +1,7 @@
 
 I spent the past two weeks continuously reading two short stories by Isaac Asimov: The last question and The last answer. Each time the existential dread grows more and i find myself hopelessly trying to figure a way out.
 
-I mean, as a 15 year old, reading about how entropy will ultimately kill the universe and that every effort we do to stop it only backfires at us doesn't lead to a good place mentally. And then with The last answer you learn about this "God" who created the universe and everything in it just to find more knowledge and using everyone to serve a purpose that won't benefit them, the rabbit hole gets even deeper.
+I mean, reading about how entropy will ultimately kill the universe and that every effort we do to stop it only backfires at us doesn't lead to a good place mentally. And then with The last answer you learn about this "God" who created the universe and everything in it just to find more knowledge and using everyone to serve a purpose that won't benefit them, the rabbit hole gets even deeper.
 
 I've spent a lot of time and effort trying to find a way to get noticed by this God and to win against nature. Well, it appears to be the same task after all. 
 
@@ -11,13 +11,13 @@ Whatever it is, ***how can we win?***
 
 ---
 <br>
-To escape any program you have to break one of its rules. Unfortuantly, the universe doens't work that way. You can't break any physical law, hence, no escape. An alternative way to do it is by stopping the program all at once. A well-known technique to do this is buffer overflow; you feed the system more input that it could handle so it breaks. In computer hacking, you can inject a malicious code with that buffer overflow to get access to the computer running the program.
+To escape any program you have to break one of its rules. Unfortunately, the universe doesn't work that way. Physical laws can never be broken, hence, no escape. An alternative way to do it is by stopping the program all at once. A well-known technique to do this is buffer overflow; you feed the system more input that it could handle so it breaks. In computer hacking, you can inject a malicious code with that buffer overflow to get access to the computer running the program.
 
 ***So, should we buffer overflow nature?*** The 2nd law of thermodynamics states that entropy, the amount of randomness and chaos in a closed system, always increases. This law -like any other law in the universe- is unbreakable, entropy could never be decreased. **It could be increased tho.**
 
 Many physicists believe that the universe will likely end by a never-ending process called, "The heat death of the universe", where entropy increases to a point where no energy has remained for particles to move and matter to form. It has been going since the big bang, nothing can stop it. So why not try our luck? Why not **kill it** faster?
 
-Theoretically, we just need to create a system that increases entropy really fast and the simulation just halts. Although, this type of weapon could be universally illegal if there was a universal government. It is not just *a* weapon of mass destruction, it's *the* WMD. Maybe whoever creates this system first will have control over every organism in the universe. Countless possibilities.
+Theoretically, we just need to create a system that increases entropy really fast to cause the simulation to halt. Although, this type of weapon could be universally illegal if there was a universal government. It is not just *a* weapon of mass destruction, it's *the* WMD. Maybe whoever creates this system first will have control over every organism in the universe. Countless possibilities.
 
 ---
 <br>
@@ -26,7 +26,6 @@ This is the only way we could win against nature. And that win could be all we n
   <center><b><i>Let's kill the universe</i></b></center> 
 
 <br>
-Btw, happy birthday to me.
 
 
 <style> body {font-family: 'Lucida Console', monospace;background-color: ""}</style>
