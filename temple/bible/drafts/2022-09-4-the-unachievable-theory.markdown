@@ -61,4 +61,5 @@ All of this contributed to the belief that the universe is natural and that the 
 The postmodern era is the era of subjectivism, skepticism, indeterminacy, loss of identity, etc... All of these ideas oppose the ideas introduced in the modern era. The world should not be built on objective truth, each individual has their own version of the world. You create your own meaning and values.
 
 
-<style>body {font-family: 'Lucida Console', monospace}</style>
+
+<style> body {font-family: 'Lucida Console', monospace;background-color: ""}</style>

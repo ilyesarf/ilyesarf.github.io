@@ -28,4 +28,5 @@ This is the only way we could win against nature. And that win could be all we n
 <br>
 Btw, happy birthday to me.
 
-<style>body {font-family: 'Lucida Console', monospace}</style>
+
+<style> body {font-family: 'Lucida Console', monospace;background-color: ""}</style>

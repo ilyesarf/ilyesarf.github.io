@@ -3,4 +3,5 @@
 * [bible](/bible)
 
 
-<style>body {font-family: 'Lucida Console', monospace}</style>
+
+<style> body {font-family: 'Lucida Console', monospace;background-color: ""}</style>
