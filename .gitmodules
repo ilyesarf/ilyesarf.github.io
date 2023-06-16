@@ -1,0 +1,3 @@
+[submodule "blogfrommd"]
+	path = blogfrommd
+	url = git@github.com:ilyesarf/blogfrommd.git
