@@ -1,2 +1,4 @@
 style:
-  font: "'Lucida Console', monospace"
+    font: "'Lucida Console', monospace"
+    bg-color: "#411"
+    color: "lemonchiffon"

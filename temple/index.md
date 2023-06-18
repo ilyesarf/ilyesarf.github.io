@@ -4,4 +4,4 @@
 
 
 
-<style> body {font-family: 'Lucida Console', monospace;background-color: ""}</style>
+<style> body {font-family: 'Lucida Console', monospace;            background-color: #411;             color: lemonchiffon}</style>

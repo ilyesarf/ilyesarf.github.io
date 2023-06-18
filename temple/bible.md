@@ -20,20 +20,20 @@ I mean, haven't you heard? *Entropy kills all*.
 
 ---
 
-<br/>
-
 ***"So WTF should I do now?"***
+
+<br/>
 
 Oh, I'm sorry. Did I depress you? Was I too nihilistic and pessimistic for you? I wish I could've answered that question with a more pink-y, flower-y world view. But, sadly, I cannot. So bare with me.
 
-Well, first things first, This is NOT a plea for Anarchism. Anarchism is NOT the answer. You will never take down the Meta or the Big Box. Simply, because there's no Meta or Big Box.
+Well, first things first, this is NOT a plea for Anarchism. Anarchism is NOT the answer. You will never take down the Meta or the Big Box. Simply, because there's no Meta or Big Box.
 
 There's only a web of interconnected, lower-case metas and boxes. And, you can't escape those by burning down supermarkets, blowing up towers \-whether from inside with a bomb or outside with a plane ;\)\-, or hacking NASA. 
 
 
 ***"Okay then, how can I esca-"***
 
-Can you just wait? I broke the 4th wall twice already. Jeez. TikTok has made you impacient.
+Can you just wait? I broke the 4th wall twice already. Jeez. TikTok has really made you impacient.
 
 Okay, fine. Here's the answer: 
 
@@ -42,4 +42,4 @@ Okay, fine. Here's the answer:
 
 </center>
 
-<style> body {font-family: 'Lucida Console', monospace;background-color: ""}</style>
+<style> body {font-family: 'Lucida Console', monospace;            background-color: #411;             color: lemonchiffon}</style>
