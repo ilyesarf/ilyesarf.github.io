@@ -2,4 +2,4 @@
 ###[Special](/blog/posts/2023-07-09-special.html)
 <br/>
 
-<style> body {font-size: 'Lucida Console', monospace;}</style>
+<style> body {font-family: 'Lucida Console', monospace;}</style>
